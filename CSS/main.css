@@ -1,0 +1,230 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, h3, p, button {
+	font-family: 'Oswald', sans-serif;
+}
+
+.f_block {
+	height: 730px;
+	background: url(../img/bg.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.s_blok {
+	height: 1000px;
+	background: url(../img/bg_2.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.ins {
+	max-width: 1180px;
+	margin: auto;
+}
+
+.mustang {
+	width: 700px;
+	margin-left: 250px;
+	margin-top: 210px;
+}
+
+.f_block_h2 {
+	color: white;
+	text-align: center;
+	font-size: ;
+}
+
+.cards {
+	justify-content: space-between;
+	display: flex;
+	max-width: 1180px;
+	margin: auto;
+}
+
+.mustang_2 {
+	margin-top: 210px;
+	width: 600px;
+}
+
+.f_card_p {
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+
+.s_cards {
+	margin-top: 200px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.s_card {
+	padding-right: 50px;
+}
+
+.ss_card_p {
+	font-weight: serif;
+	margin-top: 220px;
+	color: white;
+	font-size: 20px;
+}
+
+.pp {
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;
+}
+
+.f_card_pp {
+	color: white;
+	font-size: 20px;
+	margin-left: 42px;
+	margin-top: 20px;
+}
+
+.pic_2 {
+	height: 730px;
+	background: url(../img/bg_3.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.car {
+	margin-top: 160px;
+}
+
+.f_button {
+	margin-top: 20px;
+	background-color: transparent;
+	color: white;
+	font-size: 20px;
+	height: 60px;
+	width: 100px;
+	border: solid white 2px;
+	cursor: pointer;
+}
+
+.f_button:hover {
+	color: black;
+	background: white;
+}
+
+.pic {
+	background: #31064b;
+}
+
+.m_cards {
+	justify-content: space-between;
+	display: flex;
+	max-width: 1180px;
+	margin: auto;
+}
+
+.pic_4 {
+	margin-top: 550px;
+	margin-left: 80px;
+}
+
+.pic_5 {
+	margin-top: 300px;
+}
+
+.ornge {
+	background-color: #E56B35;
+	height: 400px;
+}
+
+.m_card_p {
+	color: white;
+	font-size: 40px;
+	text-align: left;
+}
+
+.f_card_ppp {
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.f_card_pppp {
+	color: white;
+	font-size: 20px;
+	margin-top: 60px;
+}
+
+.purple {
+	height: 1000px;
+	background: url(../img/bg_4.png);
+	background-position: center;
+	background-size: cover;
+}
+
+.p_cards {
+	display: flex;
+	justify-content: space-between;
+	max-width: 1180px;
+	margin: auto;
+}
+
+.l_card_p {
+	color: white;
+	font-size: 40px;
+	padding-top: 170px;
+}
+
+.l_insc {
+	font-size: 20px;
+	color: white;
+	margin-top: 40px;
+}
+
+.musrang {
+	margin-top: 40px;
+	width: 600px;
+}
+
+.ppurple {
+	background-color: #31064B;
+	height: 200px;
+}
+
+.vuin {
+	display: flex;
+}
+
+.ghb {
+	font-size: 20px;
+	color: white;
+	margin-top: 470px;
+	margin-left: 30px;
+}
+
+.ttt {
+	margin-top: 350px;
+}
+
+.das {
+	font-size: 20px;
+	color: white;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.foot {
+	background: #333333;
+}
+
+.qwe {
+	font-size: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: white;
+}
+
+a {
+	color: #bfb0cf;
+}
